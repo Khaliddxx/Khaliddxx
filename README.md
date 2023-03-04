@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer
 --------------------------
 
-MERN Full-stack developer and Data Analyst with 4+ years of professional experience. Well-versed in React, C++, JavaScript, HTML5, CSS, Node.js, and Express.js. A professional with a good attitude towards leading source-controlled projects, passionate about creative UX designs, and centered on delighting users.
+MERN Full-stack developer and Data Analyst with 5+ years of professional experience. Well-versed in React, C++, JavaScript, HTML5, CSS, Node.js, and Express.js. A professional with a good attitude towards leading source-controlled projects, passionate about creative UX designs, and centered on delighting users.
 
 * 🌍  I'm based in iskelé, Northern Cyprus, REMOTE
 * 🖥️  See my portfolio at [Khalidxah](http://khalidxah.tech)
