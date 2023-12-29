@@ -6,7 +6,7 @@ Web Developer and Designer
 
 MERN Full-stack developer and Data Analyst with 4+ years of professional experience. Well-versed in React, C++, JavaScript, HTML5, CSS, AWS, Node.js, and Express.js. A professional with a good attitude towards leading source-controlled projects, passionate about creative UX designs, and centered on delighting users.
 
-* 🌍  I'm based in iskelé, Northern Cyprus, REMOTE
+* 🌍  I'm remotely based
 * 🖥️  See my portfolio at [Khalidxah](http://khalidxah.tech)
 * ✉️  You can contact me at [khalidah252@gmail.com](mailto:khalidah252@gmail.com)
 * 🧠  I'm learning Next.js
