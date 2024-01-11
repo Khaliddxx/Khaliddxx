@@ -11,7 +11,6 @@ MERN Full-stack developer and Data Analyst with 4+ years of professional experie
 * ✉️  You can contact me at [khalidah252@gmail.com](mailto:khalidah252@gmail.com)
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on MERN stack projects
-* ⚡  I'm secretly a super hero. Don't tell anyone.
 
 ### Skills
 
