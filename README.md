@@ -8,7 +8,7 @@ MERN Full-stack developer and Data Analyst with 5+ years of professional experie
 
 * 🌍  I'm remotely based
 * 🖥️  See my portfolio at [Khalidxah](http://khalidxah.tech)
-* ✉️  You can contact me at [khalidah252@gmail.com](mailto:khalidah252@gmail.com)
+* ✉️  You can contact me at [khalidah252@gmail.com](mailto:khalid@wellplan.io)
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on MERN stack projects
 
