@@ -48,5 +48,5 @@ I've been building for the web since 2019: full stack developer and designer, 6+
 <a href="https://www.behance.net/khalidxah" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/behance/1769FF" width="28" height="28" alt="Behance" /></a>
 <a href="https://www.instagram.com/khalidxah/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" height="28" alt="Instagram" /></a>
 <a href="https://x.com/khalidxah" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/x/ffffff" width="28" height="28" alt="X" /></a>
-<a href="https://www.linkedin.com/in/khalid-mohamed-256a86150" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/khalid-mohamed-256a86150" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" alt="LinkedIn" /></a>
 </p>
