@@ -1,18 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khalid Mohamed
-======================================================================================================================================
+# Hi, I'm Khalid Ahmed 👋
 
-Web Developer and Designer
---------------------------
+**Founder of WellPlan. I build AI systems for small businesses, and I teach people to build their own.** Posting as [@khalidxah](https://www.instagram.com/khalidxah/).
 
-MERN Full-stack developer and Data Analyst with 7+ years of professional experience. Well-versed in React, C++, JavaScript, HTML5, CSS, AWS, Node.js, and Express.js. A professional with a good attitude towards leading source-controlled projects, passionate about creative UX designs, and centered on delighting users.
+I've been building for the web since 2019: full stack developer and designer, 6+ years, now working with AI in the loop every day. I build websites, CRMs and follow-up systems for small businesses, and write plain-English guides on building with AI.
 
-* 🌍  I'm remotely based
-* 🖥️  See my portfolio at [Khalidxah](http://khalidxah.tech)
-* ✉️  You can contact me at [khalidah252@gmail.com](mailto:khalid@wellplan.io)
-* 🧠  I'm learning Next.js
-* 🤝  I'm open to collaborating on MERN stack projects
+* 🏗️ Founder, [WellPlan](https://wellplan.io): a CRM and follow-up platform for small businesses
+* 🖥️ Portfolio, guides and hiring: [khalidbuilds.com](https://khalidbuilds.com)
+* 🎨 Design case studies: [Behance](https://www.behance.net/khalidxah)
+* ☁️ Postgraduate in cloud computing (Caltech), AWS and Azure trained
+* ✉️ Contact: [khalid@wellplan.io](mailto:khalid@wellplan.io)
+* 🤝 Open to client builds: websites, CRMs, booking and AI follow-up
 
-### Skills
+### Stack
 
 
 <p align="left">
@@ -42,13 +41,12 @@ MERN Full-stack developer and Data Analyst with 7+ years of professional experie
 </p>
 
 
-### Socials
+### Find me
 
-<p align="left"> <a href="https://www.github.com/khaliddxx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/khalidxah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/khalid-mohamed-256a86150" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-
-<a href="http://www.github.com/khaliddxx"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khaliddxx&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="left">
+<a href="https://khalidbuilds.com" target="_blank" rel="noreferrer">khalidbuilds.com</a> ·
+<a href="https://www.behance.net/khalidxah" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/behance/1769FF" width="28" height="28" alt="Behance" /></a>
+<a href="https://www.instagram.com/khalidxah/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" height="28" alt="Instagram" /></a>
+<a href="https://x.com/khalidxah" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/x/ffffff" width="28" height="28" alt="X" /></a>
+<a href="https://www.linkedin.com/in/khalid-mohamed-256a86150" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn" /></a>
+</p>
