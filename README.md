@@ -1,6 +1,6 @@
 # Hi, I'm Khalid Ahmed 👋
 
-**Founder of WellPlan. I build AI systems for small businesses, and I teach people to build their own.** Posting as [@khalidxah](https://www.instagram.com/khalidxah/).
+**Founder of WellPlan. I build AI systems for small businesses, and I teach people to build their own.** Posting on instagram [@khalidxah](https://www.instagram.com/khalidxah/).
 
 I've been building for the web since 2019: full stack developer and designer, 6+ years, now working with AI in the loop every day. I build websites, CRMs and follow-up systems for small businesses, and write plain-English guides on building with AI.
 
